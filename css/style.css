@@ -47,7 +47,7 @@ html, body {
 }
 
 h1 {
-    font-size: 18px;
+    font-size: 22px;
     color: hsl(222, 50%, 13%);
     font-weight: 900;
 }
@@ -136,12 +136,12 @@ span {
     }
 
     .dancer {
-        width: 350px;
+        width: 400px;
         height: 200px;
     }
 
     .content {
-        width: 350px;
+        width: 400px;
         height: 500px;
     }
 
