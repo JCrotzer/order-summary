@@ -81,6 +81,7 @@ h1 {
     border-radius: 10px;
     color: white;
     margin-top: 10px;
+    font-size: 14px;
 }
 
 span {
@@ -137,7 +138,6 @@ span {
     .dancer {
         width: 350px;
         height: 150px;
-
     }
 
     .content {
@@ -146,6 +146,14 @@ span {
     }
 
     .content p {
+        font-size: 16px;
+    }
+
+    .order p {
+        font-size: 16px;
+    }
+
+    .cancel {
         font-size: 16px;
     }
 }
